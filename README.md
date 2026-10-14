@@ -3,9 +3,9 @@
 ## Kết quả chạy baseline 
 | Methods | Naïve Bayes | Decision Tree | Random Forest |  Logistic Regression | AdaBoost |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| BOW | 0.83 | 0.96 | 0.96 | 0.95 | 0.56 |
-| TF-IDF | 0.87 | 0.96 | 0.96 | 0.95 | 0.56 |
-| Word2Vec | 0.49 | 0.94 | 0.95 | 0.79 | 0.57 |
+| BOW | 0.83 | 0.96 | 0.96 | 0.95 | 0.39 |
+| TF-IDF | 0.87 | 0.96 | 0.96 | 0.95 | 0.46 |
+| Word2Vec | 0.48 | 0.94 | 0.95 | 0.62 | 0.69 |
 
 - Kết quả chạy baseline: Baseline.ipynb
 - Hiện tại đang có một số vấn đề:
